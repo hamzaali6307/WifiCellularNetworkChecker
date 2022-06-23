@@ -13,7 +13,7 @@ or not to performed action task
   
 **Use:**
 
-  HWifiChecker.hasInternetConnected(getApplication()) return true 
+  HWifiChecker.hasInternetConnected(getApplication()) // return true 
 
 
 
