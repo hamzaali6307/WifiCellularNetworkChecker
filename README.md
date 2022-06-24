@@ -11,6 +11,10 @@ or not to performed action task
 
   implementation 'com.github.hamzaali6307:WifiCellularNetworkChecker:1.0.0'
   
+  repositories {
+        maven { url 'https://jitpack.io' } 
+    }
+  
 **Use:**
 
   HWifiChecker.hasInternetConnected(getApplication()) // return true 
